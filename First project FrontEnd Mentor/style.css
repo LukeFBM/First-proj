@@ -1,0 +1,45 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 2%;
+    
+}
+
+h2 {
+    font-weight: bold 900;
+    font-family: Outfit;
+  
+
+}
+
+p {
+    text-align: center;
+    font-family: Outfit;
+}
+
+img {
+    height: 300px;
+    width: 280px;
+    border-radius: 2%;
+}
+
+footer {
+    margin-top:50px;
+    margin-bottom: 0%;
+}
+
